@@ -11,7 +11,7 @@ Engineering Student | Information Technology | Full Stack & AI Enthusiast
 ---
 
 <p align="center">
-  <img src="Git cover.jpg" width="100%" height="auto" alt="Sachin Profile Image"/>
+  <img src="Git cover.jpg" width="100%" height="300" alt="Sachin Profile Image"/>
 </p>
 
 ---
